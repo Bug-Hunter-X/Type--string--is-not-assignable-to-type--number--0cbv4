@@ -1,0 +1,1 @@
+This repo contains a simple TypeScript bug that demonstrates type errors. The bug involves trying to add a number and a string together, which is not type-safe. The solution involves correctly typing the function to avoid the type error.
